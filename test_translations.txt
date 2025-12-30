@@ -1,0 +1,2000 @@
+SRC: Ekikoola kya kasooli kya kyenvu wabula langi yaakyo etera okuba eya kitaka wansi.
+PRED: The yellow bark of a maize leaf usually has a lower bark.
+REF:  The maize leaf is yellow however its colour tends to brown at the base.
+
+SRC: Ebikoola bya kasooli biriiriddwa ebisaanyi.
+PRED: The maize leaves have been cut long.
+REF:  The maize leaves have been eaten by caterpillars.
+
+SRC: Emikolo kitundu ku bulamu.
+PRED: Celebrations are part of life.
+REF:  Ceremonies are part of life.
+
+SRC: Ekivvulu kya bakazanyiikirizi kyabadde kitya?
+PRED: How long was the martyr's day?
+REF:  How was the comedy show?
+
+SRC: Kolera bulwadde obuleetebwa bukyafu.
+PRED: Sometimes diseases are easily transmitted.
+REF:  Cholera is a disease caused by poor sanitation.
+
+SRC: Embuto ez'amangu zireetedde omuwendo gw'abaana abawala abawanduka mu ssomero okweyongera.
+PRED: Severe pregnancies have resulted in an increase in the number of girls entering school.
+REF:  Early pregnancies have led to increased dropout rates of girl children.
+
+SRC: Okusaba kw'okweyimirirwa ku kakalu kujja kuwulirwa kkooti ku lwokutaano.
+PRED: The bail application will be dealt with by the court on Friday.
+REF:  Bail applications will be heard by the court on Friday.
+
+SRC: Abantu bangi  tebaddizibwa ssente ze bakozesa mu kulabikako mu kkooti.
+PRED: Many people were denied the money they used in court appearances.
+REF:  Many people never recover the expenses of the trial.
+
+SRC: Buli omu yali mweraliikirivu ku ngeri y'okubalirira.
+PRED: Everyone was worried about the way things would turn out.
+REF:  Everyone was worried about the auditing process.
+
+SRC: Amakolero agalina abakozi abasukka mu kkumi galowooza kusalako bakozi.
+PRED: Companies with over ten employees think to hire workers.
+REF:  Factories with more than ten employees are thinking of laying off workers.
+
+SRC: Kimenya mateeka omukozi okukola nga taweebwa luwummula.
+PRED: It is illegal for a worker to work when he is not given a break.
+REF:  It is illegal for an employee to work without taking leave.
+
+SRC: Abalimi balina okuwewulwa kw'ebyo bye basaasaanyizaako okusobola okwongeza ku magoba gaabwe.
+PRED: Farmers should be compensated for their expenses in order to increase their yields.
+REF:  Farmers should be subsidized in order to increase their profits.
+
+SRC: Ebisolo bikosebwa nnyo endwadde.
+PRED: Animals are highly affected by diseases.
+REF:  Animals are greatly affected by diseases.
+
+SRC: Ebyobulimi birina okutumbulwa.
+PRED: Agriculture should be promoted.
+REF:  The agricultural sector should be improved.
+
+SRC: Bulijjo tulina okuyigira mu nsobi zaffe ezaayita.
+PRED: We should always be mindful of our past.
+REF:  We should always learn from our past mistakes.
+
+SRC: Kkampuni z'amafuta zeetaaga okulaba engeri ennungi ez'okukwatamu kasasiro.
+PRED: Oil companies need to find better ways to capture oil.
+REF:  Oil companies need to observe proper means of waste disposal.
+
+SRC: Buli luvannyuma lw'okulonda, ebivudde mu nkulonda kw'abeesimbyewo birangirirwa.
+PRED: Every election day, the results of the candidates' elections are announced.
+REF:  Every after an election, candidates results are announced.
+
+SRC: Bano be beesimbyewo okuva mu bintundu by'eggwanga eby'enjawulo.
+PRED: These people have come from different parts of the country.
+REF:  Here are the political aspirants from the different parts of the country.
+
+SRC: Abayizi abali mu bibiina eby'akamalirizo bafunye okulambikibwa mu bigezo byabwe eby'akamalirizo.
+PRED: The finalists have been selected for their final exams.
+REF:  Candidates have received guidelines for their final examinations.
+
+SRC: Ttiimu yayolesezza obukodyo bw'omupiira obulungi mu mpaka.
+PRED: The team scored the best goal of the match.
+REF:  The team displayed good football skills in the tournament.
+
+SRC: Ekirwadde bunnansi kyanditulemye okutangira naye twasobola okukirwanysa.
+PRED: The pandemic has not yet stopped but we can still fight it.
+REF:  The pandemic would have run out of control but we managed to coerce it
+
+SRC: Balina okukkiriza abaana okwasanguza ebirowoozo byabwe.
+PRED: They should allow children to explore their ideas.
+REF:  They should allow children to express their thoughts and ideas.
+
+SRC: Okuwulira emisango gy'obuliisamaanyi mu kkooti kutwala bbanga ki?
+PRED: How much time does it take to hear a lawsuit in court?
+REF:  How long do rape case court hearings take?
+
+SRC: Okunyweza ebyokwerinda mu kyalo kya mugaso nnyo.
+PRED: The strengthening of local security is very important.
+REF:  Ensuring security in the village is important.
+
+SRC: Olukalala okuwandiikibwa abalimi luyamba abakungu okumanya bantu ki abeenyigira mu bulimi.
+PRED: The farmers' register helps officials to identify the farmers.
+REF:  The farmers' register helps chiefs to know which people engage in agriculture.
+
+SRC: Omuzannyi azannyira ku mabbali g'ekisaawe asobola okukola ensobi ez'enjawulo mu muzannyo n'atanenyezebwa.
+PRED: The player who plays on the court bench can make various mistakes during the match and are punished.
+REF:  An outfield player can make any number of mistakes in a game and get away with it.
+
+SRC: Ensasula embi ereetera emisango.
+PRED: Poor pay leads to crime.
+REF:  Poor pay leads to crime.
+
+SRC: Mubunabyalo kwe kudduka emisinde emiwanvu.
+PRED: In rural areas, it is easy to run at high speed.
+REF:  A marathon is a long-distance race.
+
+SRC: Weewale okwetaba n'abantu abalwadde okwewala okusaasaana kw'endwadde ezimu.
+PRED: Avoid contacting patients to avoid the spread of some diseases.
+REF:  Avoid contact with disease-infected people to prevent the spread of certain diseases.
+
+SRC: Ekitebe kya America mu Uganda kisiimiddwa olw'obuyambi bwakyo eri ebyobulamu bwa Uganda.
+PRED: The American embassy in Uganda has been closed because of its contribution to the health sector in Uganda.
+REF:  The American embassy is appreciated for its contribution towards the health of Ugandans
+
+SRC: Waliwo ensonga ezimu ezeekuusa ku nkola y'amateeka gaffe.
+PRED: There are some issues affecting the functioning of our legislation.
+REF:  There are some concerning issues with our law system
+
+SRC: Ebibuga ebiggya biri mu kutondebwawo mu ggwanga okusobola okutumbula obuweereza.
+PRED: New cities are being constructed in the country to improve service delivery.
+REF:  New cities are being created in the country to improve on service delivery.
+
+SRC: Abantu tebajja kukkirizibwa kufuna kitundu ku ssente ze batereka okutuusa nga bawummudde ku mirimu.
+PRED: People will not be allowed to access part of their income until they are retired from work.
+REF:  People will not be allowed to get half of their savings until they retire.
+
+SRC: Poliisi etunula mu alipoota z'okuwamba bantu okwetooloola Kampala
+PRED: The police keeps reporting to help people around Kampala.
+REF:  The police are looking into kidnapping reports that are happening around Kampala.
+
+SRC: Abantu tebamanyi kye baagala.
+PRED: People do not know what they want.
+REF:  People do not know what they want.
+
+SRC: Bakansala ba disitulikiti basasulwa bubi ekikosa empeereza
+PRED: District councillors are poorly paid which affects efficiency
+REF:  District councillors are poorly paid which affects service delivery
+
+SRC: Abasawo beetaaga basule mu nnyumba z'abakozi okusobola okukola amangu ku balwadde.
+PRED: Doctors need pilgrims in the workers' homes to work hand in hand with the patients.
+REF:  Doctors need to sleep in staff houses to have immediate access to patients
+
+SRC: Emisolo egikungaanyizibwa kuno girina okulondoolwa okulwanisa okukozesa obubbi bw'ensimbi
+PRED: Regular taxes should be monitored against money laundering
+REF:  Local revenue should be tracked and monitored to fight embezzlement of funds
+
+SRC: Katonda wa maanyi.
+PRED: God is merciful.
+REF:  God is great.
+
+SRC: Okweyongera okw'abanoonyiboobubudamu kwandiviirako okusaasaana kw'obulwadde.
+PRED: The increasing number of refugees led to the spread of the disease.
+REF:  The high influx of refugees is likely to encourage the spread of the disease.
+
+SRC: Beetaaga okuuulira abantu ku miganyulo gye bajja okufuna.
+PRED: They need to inform people about the benefits they will receive.
+REF:  They need to guide the community about the benefits they will receive.
+
+SRC: Okubula eby'okugula n'okutunda kitataaganya entambula y'obusuubuzi.
+PRED: Buying and selling goods is not good for business operations.
+REF:  Loss of merchandise interrupts business operations.
+
+SRC: Okulonda kuteera kuggwera mu buvuyo.
+PRED: Elections tend to end in chaos.
+REF:  Elections usually end in violence.
+
+SRC: Abafumbo balina okugonjoola obutakwatagana bwabwe.
+PRED: Married couples should settle their relationship.
+REF:  Married people should resolve their disagreements.
+
+SRC: Yasaddako embuzi ye mu ba jjaja.
+PRED: She passed away from her husband in the old days.
+REF:  She sacrificed her goat to the ancestors.
+
+SRC: Ebirowoozo ebizimba bireeta enkulaakulana mu by'enfuna.
+PRED: Developmental ideas lead to economic development.
+REF:  Developmental ideas lead to economic growth.
+
+SRC: Ettaka lirina okuwandiisibwa mu mateeka mu mannya ga nannyini lyo omutuufu.
+PRED: The land should be legally registered in the name of its rightful owner.
+REF:  Land must be legally registered in the names of the rightful owner.
+
+SRC: Amagye tegalina kwetaba mu byabufuzi n'okukola ebintu byonna ebyekuusa ku byobufuzi.
+PRED: The army should not engage in politics and do anything that affects politics.
+REF:  The army should not get involved in politics and politicking.
+
+SRC: Okwemulugunya kwonna okukwata ku mpereza z'emmotoka ezitambuza abalwadde zirina kutwalibwa eri abakulu ba disitulikiti.
+PRED: All complaints about ambulance services should be addressed to district officials.
+REF:  All complaints regarding ambulance services should be forwarded to the district officials.
+
+SRC: Omuwendo gw'abakyala b'embuto abafa nga bali mbuto, nga bazaala, oba nga baakamala okuzaala kweyongera.
+PRED: There is an increase in the number of maternal, child and maternal deaths.
+REF:  The rate of maternal mortality is increasing.
+
+SRC: Obwakabaka n'obwami bukyaliwo.
+PRED: Politics and morals have changed.
+REF:  Both kingdoms and chiefdoms still exist.
+
+SRC: Abakulembeze b'amadiini beetaaga okwenyigira mu mirimu gy'obusuubuzi okulongoosa obulamu bwabwe.
+PRED: Religious leaders need to engage in business activities to improve their lives.
+REF:  The clergy need to engage in business activities to improve their welfare.
+
+SRC: Omukyala yayanjulidde bazadde be omwami.
+PRED: The lady apologized to her husband's parents.
+REF:  The woman introduced her man to her parents.
+
+SRC: Wajja kubaawo pulogulaamu za sikaala eri abo abanaakola obulungi.
+PRED: There will be salary regulations for those who do well.
+REF:  There will be scholarship programs for those who will excel.
+
+SRC: Kya mugaso okukuuma n'okulabirira obutonde n'obulamu bw'ebisolo by'okuttale.
+PRED: It is important to preserve and conserve wildlife and animal health.
+REF:  It is important to preserve and conserve nature and wildlife.
+
+SRC: Omukungu aweereddwa oluwummula.
+PRED: The officer has been given a break.
+REF:  The officer has been placed on administrative leave.
+
+SRC: Ebikozesebwa mu masomero bijja kugabanyizibwa mu masomero ana mu bitundu by'obukiikakkono.
+PRED: The school equipment will be distributed to all schools in the northern regions.
+REF:  The scholastic materials will be supplied to four schools in the northern region.
+
+SRC: Abanoonyiboobubudamu tebalina mmere emala kubeezaawo bulamu bwabwe.
+PRED: The refugees do not have enough food to support their lives.
+REF:  Refugees do not have enough food to sustain their lives.
+
+SRC: Amasomero gateekeddwa okuwa abayizi ekyokulya.
+PRED: Schools should provide nutrition to their students.
+REF:  The schools should provide pupils with something to eat.
+
+SRC: Gvaumenti ejja kwongeza ku nfulumya y'amasannyalaze okuva ku bbibiro lry'e Karuma.
+PRED: The government will increase the power generation from the wells in Karuma.
+REF:  The government will increase power generation from Karuma dam.
+
+SRC: Paaka ya takisi nnungi nnyo okukoleramu emirimu.
+PRED: The taxi park is a great place to work.
+REF:  The taxi park is very conducive for carrying out business activities.
+
+SRC: Ebisolo by'omu nsiko bireeta ssente okuva ebweru.
+PRED: Wild animals generate income from the environment.
+REF:  Wildlife brings in foreign income.
+
+SRC: Waliwo obwanguyirwa mu kutuuka mu bbanka, amasomero n'obutale.
+PRED: There are discomforts in going to banks, schools and supermarkets.
+REF:  There is access to banks, hospitals and markets.
+
+SRC: Yasaba abantu okwongera okuwagira abalenzi okutuusa lwe bamaliriza emisomo gyabwe.
+PRED: He requested people to support boys more when they finish their studies.
+REF:  He urged the community to continue supporting the boys till they finish their studies.
+
+SRC: Ettaka kye kimu ku by'obugagga ebisingira ddala jjajja waffe omukyala bye yatulekera.
+PRED: Our grandmother destroyed some of our wealthy land.
+REF:  The land is one of the biggest assets our grandfather left us with.
+
+SRC: Akakiiko ka poliisi akakwasisa empisa kaamalawo obutakkaanya.
+PRED: The police committee has imposed a crackdown on the protesters.
+REF:  The police disciplinary committee settled this dispute.
+
+SRC: Omunoonyereza ku misango alina kukola ki?
+PRED: What should a criminal investigator do?
+REF:  What does the crime intelligence officer have to do?
+
+SRC: Ennyanja Nalubaale mpanvu kyenkana ki?
+PRED: How big is Lake Victoria?
+REF:  How deep is lake victoria?
+
+SRC: Baakubaganya ebirowozo ku kusoomoozebwa abayizi kwe basanga mu ssomero.
+PRED: They discussed the challenges faced by students in school.
+REF:  They discussed the challenges students face in school.
+
+SRC: Ekidyeri kisomba emirundi esatu mu lunaku.
+PRED: The sun sets at three o'clock in the morning.
+REF:  The ferry makes three trips in a day.
+
+SRC: Omuwendo gw'abantu abaagala okugula gusalawo bungi ki obulina okuleetebwa.
+PRED: How many choices should be made for the number of people who want to buy?
+REF:  The number of people who want to buy determines how much should be supplied.
+
+SRC: Ababundabunda b'ebaziza Katonda olw'okubasindikira abagabi b'obuyambi okubayamba.
+PRED: The pilgrims prayed to God for the blessings of the donors.
+REF:  The refugees thanked God for sending donors to help them.
+
+SRC: Abasomi mu bibiina ebya kamalirizo bajja kuddayo ku ntandiikwa y'omwezi gw'omukaaga.
+PRED: The finals students will come back at the end of June.
+REF:  Candidate classes will report at the beginning of June.
+
+SRC: Abantu baanyiiga olw'abantu abamu obutaagala kuzzaayo ssente.
+PRED: People are angry because some people do not want to give back money.
+REF:  The public was furious that some people didn't want to return the money.
+
+SRC: Abantu b'ekitundu balina okufuna ebyetaagisa nga gavumenti bwe yabasuubiza.
+PRED: The locals should acquire the necessary skills as promised by the government.
+REF:  The people of the community should receive essentials as promised by the government.
+
+SRC: Bannamateeka b'omuwawaabirwa baagamba nti baagala okulaba obwenkanya nga bukolebwa.
+PRED: The defendant's lawyers said they want to see justice done.
+REF:  The defendant's lawyers stated that they want to see justice served.
+
+SRC: Abantu basanyufu olw'obuyambi bw'emmere okuva mu gavumenti.
+PRED: People are happy with the food donations from the government.
+REF:  People are grateful for food support from the government.
+
+SRC: Abantu basiimye ekitongole olw'ebyo bye kigezaako okubakolera.
+PRED: People have criticized the organization for what it is trying to do.
+REF:  People have blessed the organisation for this great endeavour towards them.
+
+SRC: Akakiiko akakubirizi kayina obukuubagano n'ekitongole ky'amawulire ekya West Nile press association.
+PRED: The task force has conflicts with the West Nile press association.
+REF:  The district task force has conflicts with the West Nile press association.
+
+SRC: Nga weeyambisa emikutu gy'amawulire, osobola okutuuka ku  bantu bangi omulundi gumu.
+PRED: As a media facilitator, you can reach out to more than one million people.
+REF:  With the media, you can reach very many people ago.
+
+SRC: Abakulembeze b'eddiini balina okuba abeetoowaze ate nga ba mpisa.
+PRED: Religious leaders should always be selfish, not violent.
+REF:  Religious leaders should be obedient and disciplined.
+
+SRC: Kirungi okulaga okusiima.
+PRED: It is good to have faith.
+REF:  It is good to express gratitude.
+
+SRC: Buli lw'okola ekintu ekitali kituufu, bambi weetonde.
+PRED: Whenever you do something that is not good, it hurts you.
+REF:  Once you do something inappropriate, please apologise.
+
+SRC: Buli mulwadde ajja kuba n'omujjanjabi omu yekka.
+PRED: Every patient will have only one doctor.
+REF:  Every patient will have one attendant strictly.
+
+SRC: Nteekateeka ki ezimu ku ziteekeddwawo okulwanyisa akawuka ka kolona?
+PRED: What plans have been put in place to fight coronavirus?
+REF:  What are some of the measures put in place to control coronavirus?
+
+SRC: Abatembeeyi abeewandiisa beemulugunya ku bukyafu obuli mu katale.
+PRED: The registered voters are complaining about the high price in the market.
+REF:  Registered vendors are complaining about poor hygiene in the market.
+
+SRC: Tuyinayo omulwadde yenna leero?
+PRED: Do we have any patients today?
+REF:  Do we have any confirmed case today?
+
+SRC: Akawuka ka kolona kasaasaana mangu.
+PRED: Coronavirus is spreading fast.
+REF:  Coronavirus is spreading rapidly.
+
+SRC: Obuli bw'enguzi kye ki?
+PRED: What are corruption cases?
+REF:  What is corruption?
+
+SRC: Kakensa yakolokose empapula ze ez'obuyigirize.
+PRED: The king destroyed his academic papers.
+REF:  The professor criticized his academic paper.
+
+SRC: Tekinologiya aggulawo enzigi z'emikisa empya okukola bizinensi.
+PRED: The technology opens up new opportunities for business activities.
+REF:  Technology opens up doors of new opportunities to do business.
+
+SRC: Tulindiridde n'obugumiikiriza okuteekayo ebitala by'oku nguudo.
+PRED: We have advocated and encouraged the installation of roadblocks.
+REF:  We are patiently waiting for the installation of the street lights.
+
+SRC: Abalimi abasinga balima ebirime nga bya kutunda.
+PRED: Most farmers grow crops for agriculture purposes.
+REF:  Majority of farmers grow crops for sale.
+
+SRC: Abakulembeze asiimye ttiimu y'eggwanga ey'omupiira gw'ebigere olw'okukola obulungi.
+PRED: The leaders thanked the national football team for their good performance.
+REF:  The leader has rewarded the national football team for their excellent performance.
+
+SRC: Abawagizi b'omupiira baagala ttiimu ewangula.
+PRED: The supporters want the team to win.
+REF:  Football supporters like a winning team.
+
+SRC: Enzige bwe zirumba ebirime, zoonoona ebyobulimi byonna.
+PRED: When locusts grow crops, they destroy all agricultural products.
+REF:  When locusts attack the crops, they destroy the whole agricultural economy.
+
+SRC: Waliyo empaka z'ensambaggere ssabbiiti eno.
+PRED: There are sponsoring matches for this bishop.
+REF:  There are kickboxing competitions this weekend.
+
+SRC: Nafunamu ekyekango bwe nagambibwa nti taata wange yali afudde .
+PRED: I received the sentence when I was told that my father was dead.
+REF:  I was shocked when I was told that my father had died.
+
+SRC: Gavumenti yawa abalimi ttulakita.
+PRED: The government gave farmers fertilizers.
+REF:  The government provided tractors to the farmers.
+
+SRC: Bayinginiya balina okutondawo ekibiina ekibagatta.
+PRED: Engineers should form a federation.
+REF:  Engineers should create a professional uniting body.
+
+SRC: Abantu bitaano mu mukaaga be bali ku ddagala eriweweeza akawuka.
+PRED: Fifty-six people are on anti-retroviral drugs.
+REF:  Five hundred six people are on antiretroviral drugs.
+
+SRC: Enteekateeka z'okwewola ziyambye abakyala n'ebibiina by'abavubuka.
+PRED: Election campaigns are supported by women and youth groups.
+REF:  Loan schemes have supported women and youth groups.
+
+SRC: Minisita w'ebyemizannyo mu butongole aguddewo empaka z'amasomero ez'ebyemizannyo.
+PRED: The ministry of sports has hosted the sports school competitions.
+REF:  The minister of sports has officially opened the school sports competition.
+
+SRC: Omwaka oguwedde muganda wange yagula ettaka okuva mu nsimbi ze yali atereka.
+PRED: My brother bought land from his mortgage last year.
+REF:  Last year my sister bought a piece of land from her savings.
+
+SRC: Ttiimu yazannya bulungi.
+PRED: The team played well.
+REF:  The team played so well.
+
+SRC: Okujaguza kw'amefuga kwasazibwamu.
+PRED: The rioting was stopped.
+REF:  Independence day celebrations were cancelled.
+
+SRC: Ttiimu y'omupiira eya Kampala Capital city authority yafuna okuwangula kwayo okwasooka sizoni eno.
+PRED: Kampala capital city authority football team won its first ever victory this season.
+REF:  Kampala capital city authority football club got their first away win this season.
+
+SRC: Okumuwandiisa kwalaga nti ttiimu nneetegefu, erina amaanyi erindiridde oluzannya.
+PRED: The signing said that the team is strong and ready to play.
+REF:  The signing explained that the team is ready, motivated and eagerly waiting for the match.
+
+SRC: Layisinsi yange enzikiriza okukola yabibbwa.
+PRED: My work permit was stolen.
+REF:  My work license was stolen.
+
+SRC: Nsobola ntya okufuna ndagamuntu amangu?
+PRED: How can I get a good profile?
+REF:  How can I get a National identity card quickly?
+
+SRC: Endwadde ebalukawo y'endwadde ekosa abantu abangi mu kitundu.
+PRED: The outbreak of the disease affects many people in the community.
+REF:  An epidemic is a disease that affects a large number of people within a community.
+
+SRC: Kiki ekireeta omujjuzo mu Kampala?
+PRED: What causes riots in Kampala?
+REF:  What causes the high rate in Kampala?
+
+SRC: Ekkanisa yazimbibwa n'ebigendererwa bisatu.
+PRED: The church was constructed with three goals.
+REF:  The church was established with three objectives.
+
+SRC: Eyakattikirwa yayitira mu ddala lya ddiguli erisooka.
+PRED: The letter was written in the form of a piece of paper.
+REF:  The recent graduate had a first-class degree.
+
+SRC: Abakulembeze b'okukyalo bakubiriza abantu okukuuma ekibuga nga kiyonjo.
+PRED: The village leaders advise people to keep the city clean.
+REF:  Local leaders are urging people to keep the city clean.
+
+SRC: Abantu ab'ekisa bawebwa ebirabo.
+PRED: The church people were given gifts.
+REF:  Kind people are always rewarded.
+
+SRC: Baavumiridde obukambwe bwa poliisi.
+PRED: They condemned the police brutality.
+REF:  They condemned police brutality.
+
+SRC: Ekitongole ekivunaanyizibwa ku butonde bw'ensi kirina okuvaayo okutaasa entobazi.
+PRED: The environmental authority should take action to clean up the wetlands.
+REF:  National environment management authority should intervene to conserve the wetlands.
+
+SRC: Avunaanibwa yategeeza nti yali talina musango kubanga tewaaliwo bujulizi.
+PRED: The accused declared that he was innocent because there was no evidence.
+REF:  The accused claimed he was innocent because there was no evidence.
+
+SRC: Okusomera ku mutimbagano kwanguwa nnyo.
+PRED: Online courses were very expensive.
+REF:  Online courses are more convenient.
+
+SRC: Gavumenti ejja kukolera n'ebitongole eby'enjawulo okukulaakulanya ebitundu by'obukiikakkono.
+PRED: The government will work with different organizations to develop the northern regions.
+REF:  The government will work with various organizations to develop the northern region.
+
+SRC: Okulunda ebyennyanja mulimu oguvaamu ensimbi.
+PRED: Fish farming is a profitable activity.
+REF:  Fish farming is an economic activity.
+
+SRC: Ababaka ba paalamenti bakiikirira abantu mu bitundu ku mutendera gw'eggwanga.
+PRED: Members of parliament represent the community at the national level.
+REF:  Members of parliament represent community members at a national level.
+
+SRC: Omupiira gw'ebigere y'engeri ennyangu ey'okugattamu ebitundu awamu.
+PRED: Football is a great way of connecting communities together.
+REF:  Football is an easy way of bringing communities together.
+
+SRC: Ebibuga ebirimu tekinologiya by'ebiseera by'omu maaso eby'okuzimba n'okukuuma obutonde.
+PRED: Cities are equipped with state-of-the-art technologies for construction and conservation.
+REF:  Smart cities are the future of housing and environmental protection.
+
+SRC: Abawala abavuvuka bonna beetaaga okuba n'obusobozi okufuna ppamba w'ekikyala.
+PRED: All young girls need to have the ability to get breast milk.
+REF:  All teenage girls need affordable access to sanitary pads.
+
+SRC: Kkalina empya ejja kuzimbibwa.
+PRED: A new church will be built.
+REF:  A new flat will be constructed.
+
+SRC: Twetaaga ensimbi eziwerako okukola okunoonyereza okulala ku musango.
+PRED: We need more funds to carry out investigations on the case.
+REF:  We need a lot of money to carry out more investigations on the case.
+
+SRC: Abasajja mu butuufu bassibwamu ekitiibwa.
+PRED: Men have been respected in life.
+REF:  Men are really respected.
+
+SRC: Abantu essira balitadde ku Amin olw'enneeyisa ye ne bye yayimirirangako.
+PRED: People are grateful to Amin for his actions and actions.
+REF:  People have focused on Amin because of his character and what he stood for.
+
+SRC: Ekibuga kijja kubaamu tekinologiya ow'ekika ekya waggulu.
+PRED: The city will have high-technology equipment.
+REF:  The city will be comprised of high levels of technology.
+
+SRC: Tugula ebyamaguzi ne tubitunda okufuna amagoba.
+PRED: We buy goods and sell them for profit.
+REF:  We buy goods and sell them at a profit.
+
+SRC: Abantu basobola okutangira obuzzi bw'emisango nga baloopa abakozi b'ebikolobero.
+PRED: People can prevent crime by chasing criminals.
+REF:  Locals can help prevent crime by reporting wrongdoers.
+
+SRC: Okukyusibwa kutataaganya.
+PRED: Changes are unnecessary.
+REF:  Transfers are very inconveniencing.
+
+SRC: Buli lunaku omuwendo gw'abantu abeyunga ku kibiina gulinnya..
+PRED: There is an increase in the number of members of the party every day.
+REF:  There is an increase in the number of people joining the group every day.
+
+SRC: Abakatoliki bakirizza abasajja abamu abafumbo okufuuka ababuulizi.
+PRED: Catholics have converted some married men into priests.
+REF:  Catholics allow some married men to become ordained priests.
+
+SRC: Omubisi gw'enjuki ogw'omutindo omulungi guva mu kino ekitundu.
+PRED: A good quality beehive comes from this region.
+REF:  Good quality honey will come from this region.
+
+SRC: Olumu emirimu gya gavumemti gisooba kubanga ensimbi zirwayo mu Minisitule.
+PRED: Some government activities are cancelled because funds are spent in the ministry.
+REF:  Some times government work slows down because of delayed funds from ministries.
+
+SRC: Okuzimba oluguudo kujja kutandika mu wiiki eno.
+PRED: Road construction will start this week.
+REF:  The road construction will begin this week.
+
+SRC: Buli mukrisitaayo ateekeddwa okuwaayo ky'asobola mu kuzimba ekkanisa.
+PRED: Every Christian should contribute towards building a church.
+REF:  Every Christian should contribute what he can afford to the construction of the church.
+
+SRC: Lwaki baddiifiri bafutyanka emizannyo ?
+PRED: Why did the elite lose the games?
+REF:  Why do referees manipulate games?
+
+SRC: Nina amazalibwa gange wiiki ejja.
+PRED: I will be appointed next week.
+REF:  I have my birthday next week.
+
+SRC: Olina kulinda bbanga ki nga tonnawasa?
+PRED: How long do you have to wait before you grow up?
+REF:  How long should you wait before marrying?
+
+SRC: Baali tebasaaanidde kuggulawo akawunti
+PRED: They were unable to open the account.
+REF:  They were not eligible to start an account.
+
+SRC: Eggwanga liyina ebbula ly'emirimu erya waggulu n'okusasulwa kw'abakozi okutono.
+PRED: The country has a high unemployment rate and low employee turnover.
+REF:  The country has high levels of unemployment and underemployment.
+
+SRC: Poliisi yategeeza abantu okwewala ebikolwa ebimenya amateeka mu kiseera kino eky'ebikujjukko.
+PRED: The police advised people to avoid illegal activities during this festive season.
+REF:  Police informed people to desist from any acts of criminality in this festive season.
+
+SRC: Bbanka yatandiseewo enkola ya agenti ne digito banking okugaziya empereza zaayo eri abantu .
+PRED: The bank introduced agents and digital banking to enhance its services to the public.
+REF:  The bank established agent and digital banking to extend banking services to the people.
+
+SRC: Weebaze Katonda olw'ebirungi byonna .
+PRED: They thanked God for all his good works.
+REF:  Thank God for all the good things.
+
+SRC: Eby'obusuubuzi bikubiriza  enkulaakulana mu by'enfuna.
+PRED: Business activities promote economic development.
+REF:  Trading activities encourage economic development.
+
+SRC: Poliisi evunaana omumenyi w'amateeka mu mateeka.
+PRED: The police arrests a lawbreaker.
+REF:  Police charge a criminal by the law.
+
+SRC: Kkooti yakkiriza nti kituufu era waliwo obujulizi bwakyo .
+PRED: The court agreed that it is right and proper to make its ruling.
+REF:  The court accepted that it is true and there is evidence for it.
+
+SRC: Emikisa gy'okutendekebwa giteekeddwa okuweebwa okutumbula abanoonyiboobubudamu
+PRED: Training opportunities should be given to improve the performance of refugees
+REF:  Training opportunities should be provided to empower refugees.
+
+SRC: Gavumenti yawaayo obuwumbi obuse kkumi na busatu okukwasaganya omusujja gw'enkaka.
+PRED: The government donated thirteen million Ugandan shillings to fight yellow fever.
+REF:  The government allocated thirteen billion towards containing yellow fever.
+
+SRC: Omuwendo gw'abatamanyi kusoma na kuwandiika gwewuniikiriza.
+PRED: The number of primary school dropouts is impressive.
+REF:  The number of illiterates is alarming.
+
+SRC: Abakyala balina okusomesebwa ku mikisa egy'enjawulo na ddala gye balinawo.
+PRED: Women should be taught about different roles and responsibilities.
+REF:  Women should be educated about the different opportunities specifically present for them.
+
+SRC: Disitulikiti esembezza enkola y'okubudaabuda eri abanoonyiboobubudamu
+PRED: The district has embarked on a road map for refugees.
+REF:  The district has extended counselling services to the refugees.
+
+SRC: Abayizi baagala nnyo okusiba ku mizannyo n'okuwuliriza ennyimba.
+PRED: Students love sports activities and listening to music.
+REF:  Students are addicted to sports betting and listening to music.
+
+SRC: Yawangula emmotoka omwaka oguwedde.
+PRED: He won the race last year.
+REF:  He won a car last year.
+
+SRC: Yali yeetaaga emmotoka okwanguya kakuyege we.
+PRED: He needed a car to rescue his uncle.
+REF:  He needed a car to ease his campaigns.
+
+SRC: Ajja kuvunaanyizibwa okulondoola engula y'ebintu.
+PRED: He will be responsible for supervising the movement of goods.
+REF:  She will be responsible for monitoring the purchase of that equipment.
+
+SRC: Essaawa eno tusonda ssente okuzimba ebisulo by'abalenzi.
+PRED: We are not raising money this evening to build boys' homes.
+REF:  Currently, we are raising funds to build the boys' dormitory.
+
+SRC: Entebbe kye kimu ku bibuga ebisinga obuyonjo mu ggwanga.
+PRED: Teargas is one of the cleanest cities in the country.
+REF:  Entebbe is one of the cleanest towns in the country.
+
+SRC: Enkolagana ennungi evaamu ebintu ebirungi mu kitundu.
+PRED: Good cooperation yields good results in the community.
+REF:  A good working relationship yields positive results in the community.
+
+SRC: Okunywa amazzi amakyafu kireeta endwadde nnyingi mu bulamu bw'abantu.
+PRED: Poor drinking of water causes many diseases in people's lives.
+REF:  Drinking of dirty water causes many diseases in people's lives.
+
+SRC: Minisitule y'ebyobulamu esemba nti amazzi g'okunywa gonna gayina okufumbibwa.
+PRED: The ministry of health says all drinking water should be washed.
+REF:  The ministry of health recommends that all water for drinking should be boiled.
+
+SRC: Balina okuyambagana okuwangula.
+PRED: They should work together to win.
+REF:  They should help one another prosper.
+
+SRC: Uganda erina okukozesa amagezi ag'ekikugu mu kitongole ky'ebyenjigiriza.
+PRED: Uganda should use the expertise of the Ministry of Education.
+REF:  Uganda should utilize technical solutions in the education sector.
+
+SRC: Abanoonyiboobubudamu baasabye nti gavumenti ekole ku byeetago byabwe.
+PRED: The refugees said the government is behind their cause.
+REF:  The refugees request that the government responds to their needs.
+
+SRC: Eddwaliro eppya lizimbibwa mu kitundu.
+PRED: A new hospital is being constructed in the area.
+REF:  A new health center is being built in the region.
+
+SRC: Disitulikiti etaddewo ttiimu okulondoola abakozi ba gavumenti.
+PRED: The district has set up a team to supervise the government officials.
+REF:  The district has established a team to monitor public servants.
+
+SRC: Abantu abaliko obulemu bajja kusobola okufuna emirimu.
+PRED: People with disabilities will be able to access jobs.
+REF:  People with disabilities will have access to employment opportunities.
+
+SRC: Ki ekireetera ebizimbe okugwa?
+PRED: What causes buildings to collapse?
+REF:  What causes buildings to collapse?
+
+SRC: Amasomero ga gavumenti gasomesa bulungi.
+PRED: Government schools provide quality education services.
+REF:  Government-aided schools provide good education services.
+
+SRC: Lwaki obulabirizi bwawulwamu?
+PRED: Why did the bishop die?
+REF:  Why would the diocese be split?
+
+SRC: Empuliziganya ennungi eyinza kutandikibwawo etya?
+PRED: How can good communications be established?
+REF:  How can effective communication be established?
+
+SRC: Amasannyalaze gakolebwa mu mazzi agakulukuta
+PRED: The electricity was generated from the running water.
+REF:  Electricity is generated from running water.
+
+SRC: Teri amanyi lwaki abakozi abamu baagobeddwa.
+PRED: Do not know why some workers have been fired.
+REF:  No one knows why some workers were laid off.
+
+SRC: Okuvujjirira okusinga kwaweereddwa eri obulimi n'obulunzi
+PRED: Most funding has been given to agriculture.
+REF:  Most of the funding was allocated to agriculture.
+
+SRC: Baaloopye omusango ewa ssentebe w'ekyalo
+PRED: They convicted the village chairperson.
+REF:  They reported the case to the village chairman.
+
+SRC: Teyavunaanibwa.
+PRED: He was not blamed.
+REF:  He was not impeached.
+
+SRC: Ssentebe waffe ateeberezebwa okuba emabega w'ekibinja ky'ababbi ekimu mu kitundu kyaffe.
+PRED: Our chairman is suspected to be involved in a gang of robbers in our constituency.
+REF:  Our chairman is suspected to be behind a certain group of thieves in our area.
+
+SRC: Waliwo abayizi bangi abasoma okuyimba mu matendekero ga waggulu.
+PRED: There are many students studying to sing in higher institutions.
+REF:  There are many music students in higher institutions of higher learning.
+
+SRC: Abantu bangi battibwa wakati mu bwegugungo.
+PRED: Many people are killed during the riots.
+REF:  Many people were killed during the riots.
+
+SRC: Kompyuta ye ey'omu ngalo yabbibwa ng'agenda ku ssomero.
+PRED: Her laptop was stolen while she was going to school.
+REF:  Her laptop was stolen on her way to school.
+
+SRC: Yagezaako okugoba omubbi naye tekyasoboka.
+PRED: He tried to chase the thief but he was unable to.
+REF:  She tried to chase the thief but all in vain.
+
+SRC: Okuzimba oluguudo tekunnatandika.
+PRED: Road construction is not yet underway.
+REF:  The road construction has not yet started.
+
+SRC: Twetaaga abasomesa abamalirivu okusomesa mu bibiina eby'akamalirizo.
+PRED: We need dedicated teachers to teach in the colleges.
+REF:  We need committed teachers to teach candidate classes.
+
+SRC: Omusomesa w'ebyafaayo tatera kujja kutusomesa.
+PRED: The history teacher will never come to teach you.
+REF:  The history teacher rarely turns up for our classroom lessons.
+
+SRC: Abaana ba nnassale basomesebwa engeri y'okusoma n'okumanya ennyukuta walifu.
+PRED: Farmers' children are taught how to learn and test for malnutrition.
+REF:  Nursery children are taught how to read and identify letters of the alphabet.
+
+SRC: Abasuubuzi abalina ebintu ebifaanagana bakolera mu katale ke kamu.
+PRED: Business people with similar characteristics work in the same market.
+REF:  Traders with the same kind of products operate in the same market.
+
+SRC: Ekitongole ky'enguudo kijja kwezza omulimu gw'okukola enguudo ku disitulikiti.
+PRED: The road authority will provide road works at the district level.
+REF:  Uganda national roads authority will take over road construction at the district.
+
+SRC: Omuwala eyasobezebwako yabula ku kitundu.
+PRED: The girl who was beaten died in the community.
+REF:  The defiled girl disappeared from the area.
+
+SRC: Baawa ekitundu kyonna obukookolo.
+PRED: They organized all kinds of events.
+REF:  They donated masks to the whole community.
+
+SRC: Yaweereddwa ekitanda mu ddwaliro.
+PRED: He was admitted to the hospital.
+REF:  He is admitted to the hospital.
+
+SRC: Buli disitulikiti eri ku nsalo erina we bakeberera.
+PRED: Every district at the border has its own supervisors.
+REF:  There are checkpoints at every border district.
+
+SRC: Disitulikiti zirina enkaayana z'ettaka.
+PRED: The districts have land wrangles.
+REF:  The districts are having land disputes.
+
+SRC: Abakulembeze baasaba omukiise mu paalamenti okugonjoola ekizibu nga yeeyambisa mmaapu y'abafuzi b'amatwale.
+PRED: Leaders requested the member of parliament to solve the problem by means of the mayoral's map.
+REF:  The leaders tasked the parliamentarian to solve the problem using the colonial map.
+
+SRC: Waliwo okukeberebwa kw'abavuzi ba biroole nga bayingira eggwanga.
+PRED: There are surveillance measures for truck drivers entering the country.
+REF:  There is a screening of truck drivers when entering the country.
+
+SRC: Waliwo obutamanya mu bantu ku kirwadde.
+PRED: There is uncertainty among the people about the disease.
+REF:  There is ignorance about the disease among the community.
+
+SRC: Minisita yasuubiza obuyambi bw'ensimbi eri abantu bonna abaakosebwa omuliro.
+PRED: The minister promised financial support to all the victims of the fire.
+REF:  The minister promised financial aid to all people affected by the fire.
+
+SRC: Abamu ku bannaabwe babonaabonera mu makomera.
+PRED: Some of his fellow citizens have escaped from prison.
+REF:  Some of their colleagues are languishing in harsh conditions of prison.
+
+SRC: Abavubuka abasiramu baakiikirirwa mu lukungaana.
+PRED: The Muslim youths participated in the meeting.
+REF:  The Muslim youths were represented at the meeting.
+
+SRC: Abantu abakulu basaanidde okuweebwa eddembe okwetwala.
+PRED: Elders should be empowered to take care of them.
+REF:  Adults should be allowed to be independent.
+
+SRC: Abasirikale balina okuyambibwa okukiraba nti beetaaga okulekera awo okulwana.
+PRED: Soldiers should be advised to make sure that they are ready for the fight.
+REF:  The soldiers should be convinced to stop fighting.
+
+SRC: Yagamba ab'ekibiina kye okumuwagira.
+PRED: He asked the members of his party to support him.
+REF:  He called on the party members to support him.
+
+SRC: Abawandiisi beekenneenya ebikolwa eby'obulyi bw'enguzi mu gavumenti z'ebitundu.
+PRED: The journalists are covering the corruption cases in the local governments.
+REF:  The authors studied the incidence of corruption in local governments.
+
+SRC: Enkalala z'abalonzi zirina okutimbibwa ku parisi.
+PRED: Voters' rolls should be put on the parish.
+REF:  The voter registers should be displayed at the parishes.
+
+SRC: Abo abafuna obubonero obutono bajja kuwandukamu.
+PRED: Those who get small injuries will be compensated.
+REF:  Those that get low points will automatically be disqualified.
+
+SRC: Abantu 12 be baafunye ebisago mu kabenje
+PRED: Twelve people were injured in the accident.
+REF:  Up to twelve people were seriously injured in the accident
+
+SRC: Toe ye ki era eyawukana etya ku yingini?
+PRED: What is the name of the dancer on the stage?
+REF:  What is a toe and how is it different from the engine?
+
+SRC: Waliwo obutakwatagana bungi mu kibiina.
+PRED: There are many misunderstandings in the party.
+REF:  There is a lot of disagreement within the party.
+
+SRC: Okunoonyereza abantu bakukola mu ngeri ezitali zimu.
+PRED: Research is done by people in different ways.
+REF:  There is diversity in the way people do their research.
+
+SRC: Nnasasula engassi ow'enganda zange n'ateebwa.
+PRED: I paid my cousin's rent and got it.
+REF:  I paid the fine and my cousin was released.
+
+SRC: Oluvannyuma lw'okubaako bye boogera, abatemu baagenda.
+PRED: After their speeches, some people turned away.
+REF:  After some discussions, the killers left.
+
+SRC: Okuva olwo, ffe ne famire yaabwe twafuuka ba mukwano nnyo.
+PRED: From then on, we became very friends with their family.
+REF:  We have since remained very close to personal and family friends.
+
+SRC: Okuvugira ku sipiidi ey'amaanyi kiyinza okukendeeza enkekkereza y'amafuta ebitundu asatu ku buli kikumi.
+PRED: High speeding can reduce the oil reserves by thirty percent.
+REF:  Speeding can reduce fuel efficiency by up to thirty percent.
+
+SRC: Emmotoka nnyingi zirina amapeesa agasobozesa yingini okwetooloolera ku sipiidi y'emu ng'ate tereekaana nnyo.
+PRED: Many cars have engine brakes that allow them to brake at one speed at a very low speed.
+REF:  Many cars have buttons that allow turning off the overdrive gear.
+
+SRC: Ba mu bibiina ebivumirira gavumenti ebivuggirirwa obulungi.
+PRED: They are among the most respected members of the government.
+REF:  They are members of well-resourced and media anti-government exile groups.
+
+SRC: Ebitongole by'amasimu bisirikidde ensonga y'ebisale by'amasimu ebipya
+PRED: Civil society has addressed the issue of the cost of new equipment.
+REF:  Telecom companies are secretive on doing the new interconnection fee
+
+SRC: Ebintu bibi nnyo mu disitulikiti.
+PRED: Things are very bad in the district.
+REF:  Things are very bad in the district.
+
+SRC: Kino kireetawo obulabe bwa maanyi ku ntambula ey'oku mazzi.
+PRED: This causes serious health problems during the water walk.
+REF:  This raises serious issues of safety in our water transport system.
+
+SRC: Okusalawo okudda eka tekyali kya magezi.
+PRED: The decision to go home was not wise.
+REF:  This was a bad move to go home.
+
+SRC: Abaana basaanidde okunaabanga ku makya ennyo.
+PRED: Children should have sex early in the morning.
+REF:  Children should always shower early in the morning.
+
+SRC: Ab'oludda oluvuganya gavumenti balina obuwagizi bungi mu bitundu by'omu bukiikakkono bwa Uganda.
+PRED: The opposition has a lot of support in the northern part of Uganda.
+REF:  The opposition has a lot of support in northern Uganda.
+
+SRC: Gavumenti esaanidde okuzuula ssente ezaabulankanyizibwa.
+PRED: The government should find out how much money is allocated.
+REF:  The government should recover the misappropriated funds.
+
+SRC: Okukubaganya ebirowoozo kwalagibwa ku ttivi.
+PRED: The debate was broadcast live on television.
+REF:  Public debates were broadcast on television.
+
+SRC: Abatuuze baali beetegefu okulwana.
+PRED: The locals were ready to fight.
+REF:  The residents were ready to fight.
+
+SRC: Ebitongole bitono bye bijja okuganyulwa mu ssente za gavumenti.
+PRED: The small organizations will benefit from government money.
+REF:  A few sectors will benefit from the government money.
+
+SRC: Abantu bangi baali bamukkiririzaamu.
+PRED: Many people were converted.
+REF:  Many people believed in him.
+
+SRC: Bajja kubonerezebwa singa tebakola mulimu gwabwe.
+PRED: They will be punished if they do not do their work.
+REF:  They will be punished if they don't do their work.
+
+SRC: Waliwo abalala bangi mu nsiike eyo.
+PRED: There are many others in that shirt.
+REF:  There are quite many others in that field.
+
+SRC: Gijja kubeera ku kisaawe ky'essomero.
+PRED: He will be at the school grounds.
+REF:  The sports event will take place at the school's playground.
+
+SRC: Abamu ku abo abakosebwa olutalo beemulugunya ku ebyo ebyabaweebwa.
+PRED: Some of the victims of the war are complaining about the allegations.
+REF:  Some war victims complained about the package that they received.
+
+SRC: Yaliko omulamuzi wa Kkooti Ensukkulumu.
+PRED: He was the judge of the Supreme Court.
+REF:  He was once the chief justice of the Supreme Court.
+
+SRC: Ekitundu ekisinga obunene eky'ekibuga Kampala kiri mu bwakabaka bwa Buganda.
+PRED: Kampala city's largest area is in the Buganda municipality.
+REF:  The biggest part of Kampala city is in Buganda kingdom.
+
+SRC: Enkola empya eyinza okutwala obukadde n'obukadde bwa ssente.
+PRED: The new system may take time and money.
+REF:  The new system could cost millions of shillings.
+
+SRC: Amasomero agamu gafuna ebigezo nga bukyali.
+PRED: Some schools get exams late.
+REF:  Some schools receive the papers before exams are held.
+
+SRC: Yeewola ssente nnyingi mu bbanka.
+PRED: He borrowed a lot of money from the bank.
+REF:  He borrowed a lot of money from the bank.
+
+SRC: Abalenzi baayitidde waggulu.
+PRED: The boys were standing tall.
+REF:  Boys passed the examinations highly.
+
+SRC: Kampuni z'amasimu zijja kukozesa ebintu ebiriwo okukola omulimu.
+PRED: The construction companies will use the available equipment to carry out the work.
+REF:  The telecom companies will use the available facilities for the work.
+
+SRC: Okukozesa abasawo ab'ebweru kijja kulongoosa mu by'enzijanjaba.
+PRED: The use of foreign doctors will improve health services.
+REF:  Hiring foreign doctors will improve health services.
+
+SRC: Mmanya ebintu bye nnina buli kiseera.
+PRED: I know what I have to offer at any time.
+REF:  I track my stock levels all the time.
+
+SRC: Bamaama abali embuto basaanidde okugendanga mu ddwaliro.
+PRED: Pregnant mothers should go to the hospital.
+REF:  Pregnant mothers should visit the hospital.
+
+SRC: Bagaanye okukola omulimu gwa paliyamenti gwonna.
+PRED: It is good to do all the parliamentary work.
+REF:  They have refused to attend to any parliamentary business.
+
+SRC: Ani yatta abajulizi?
+PRED: Who killed the martyrs?
+REF:  Who killed the martyrs?
+
+SRC: Amakolero agasinga obungi ga bwannanyini,
+PRED: Most industries are privately owned.
+REF:  Most of the manufacturing industries are privately owned.
+
+SRC: Pulezidenti teyaliiwo.
+PRED: The president has not yet arrived.
+REF:  The president did not appear at the event.
+
+SRC: Olwokuna olujja akakiiko lwe kajja okutandika okwekenneenya abusuubuzi b'omu Uganda.
+PRED: There will be a meeting of the task force to start the negotiations on Ugandan trade.
+REF:  Thursday next week marks the beginning of the verification of Ugandan traders by committee members.
+
+SRC: Palamenti yakakasa baminisita bonna pulezidenti be yalonda.
+PRED: The parliament confirmed the election of all the presidents.
+REF:  Parliament approved all the ministers appointed by the president.
+
+SRC: Yakuzibwa ku mulimu.
+PRED: He was fired from work.
+REF:  She was promoted at her workplace.
+
+SRC: Yawawaabirwa ku poliisi.
+PRED: He was questioned by the police.
+REF:  He was reported to the police.
+
+SRC: Enteeteeka ezimu zireetedde ebitundu eby'omu byalo okukulaakulana.
+PRED: Some regulations have led to the development of rural areas.
+REF:  Some programs have facilitated the development of rural areas.
+
+SRC: Omukolo guno gukungaanya abantu okuva mu mawanga gonsatule.
+PRED: This event attracts people from all over the country.
+REF:  The celebration gathers people from all three countries.
+
+SRC: Ebisale by'eddwaliro binene.
+PRED: The hospital fees are high.
+REF:  Medical bills are very expensive.
+
+SRC: Poliisi zaateekebwa ku nsalo zonna.
+PRED: The police were deployed at all the border points.
+REF:  Police was deployed at all border points.
+
+SRC: Waliwo omukulu mu maggye afudde.
+PRED: There is a retired member of the army.
+REF:  A senior officer of the army has passed on.
+
+SRC: Ye mwogezi w'amaggye ago.
+PRED: She is the spokesperson for the army.
+REF:  He is the spokesman of that ministry.
+
+SRC: Abantu abasibuka mu bitundu bye bimu kibanguyira okukolera awamu.
+PRED: Youths in some areas find it hard to work together.
+REF:  People with similar origins work well together.
+
+SRC: Ttivi zikozesa bannamawulire okugasaka n'okugafulumya nga gakwata ku mbeera eba eriwo.
+PRED: Television stations use journalists to communicate and report about the current situation.
+REF:  Television stations employ news anchors to report and cover current situations.
+
+SRC: Gavumenti eba erina okusasulira abo ababa bakoseddwa pulojekiti zaayo.
+PRED: The government should compensate those who failed its projects.
+REF:  The government is obliged to compensate people who are affected by its projects.
+
+SRC: Abantu bazza emisango basobole okufuna ssente n'okweyimirizaawo.
+PRED: People have committed crimes so that they can get money and livelihood.
+REF:  People commit crimes for money and survival.
+
+SRC: Omukazi bw'agenda akula, emikisa gye egy'okuzaala gigenda gikendeera.
+PRED: As a woman grows, her reproductive opportunities are decreasing.
+REF:  As a woman ages, her fertility decreases naturally.
+
+SRC: Tulina eddembe okuba n'ebintu ebyaffe ku bwaffe mu ggwanga lino.
+PRED: We have a right to have our own property in this country.
+REF:  We have the right to own property in this country.
+
+SRC: Ekitongole kino kye kikola ku kwemmulugunya okuba kuleeteddwa nga kukwata ku bapoliisi.
+PRED: This organization is responsible for the allegations made against the police officers.
+REF:  This department addresses complaints against police officers.
+
+SRC: Munnamawulire yawa alipoota enzijuvu ku nsonga eyo.
+PRED: The journalist gave an interesting report on the matter.
+REF:  The journalist gave a full report of the story.
+
+SRC: Yakola okutuusa mu lukumi kinaana mu gumu.
+PRED: He made it to the ninety-fifth place.
+REF:  He worked until one thousand eighty-one.
+
+SRC: Ky'olina okukola, ggulawo era okozese akawunti yo nga ku mukutu omulala gwonna.
+PRED: What you have to do is open up and register your account online.
+REF:  All you do is register, open, and activate your account normally like any other platform.
+
+SRC: Abalwadde abamu abalina akakwate ku Democratic Republic of Congo babaliddwa mu Uganda.
+PRED: Some of the victims of the war in the Democratic Republic of Congo were born in Uganda.
+REF:  Some cases linked to people from the Democratic Republic of Congo have been recorded in Uganda.
+
+SRC: Okujjanjaba abalwadde ba Ebola n'abateeberezebwa, abasawo babaawulirako mu bisenge.
+PRED: To treat Ebola patients and suspects, doctors looked through the windows.
+REF:  To treat Ebola patients and suspected cases, doctors typically isolate them in rooms.
+
+SRC: Emmotoka ziteekebwa mu matuluba ag'enjawulo okuli n'esinga ekirabo ekinene.
+PRED: Cars are parked in different corners of towns, most with big discounts.
+REF:  The cars are put into various categories including one for the supreme award.
+
+SRC: Gavumenti n'ebitongole eby'obwannannyini bikola enteekateeka ezitakwata ku bantu abasaanyawo ebibira.
+PRED: The government and private institutions are putting in place plans for the people who clean up the sewerage.
+REF:  Governments and private entities make programs that do not take into account forest-dwelling people.
+
+SRC: Abantu bafuna empapula okusaba oluvannyuma lw'okulagayo ebbaluwa eva ewa ssentebe w'ekyalo.
+PRED: People get papers to ask for after raising the village chairperson's salary.
+REF:  People receive forms to apply after presenting a letter from the local council one.
+
+SRC: Minisita w'e Rwanda ow'omukago gwa East Afirika yategeeza nti abamu ku baweebwa obuvunaanyizibwa ku lwa Rwanda tebajja kubaawo.
+PRED: Rwanda's minister of state for East Africa said that some of the responsibility for Rwanda will not be fulfilled.
+REF:  Rwanda's minister for the East African Community said some members of their delegation would be unavailable.
+
+SRC: Yagamba nti ebigambo bye yali abitegeeza.
+PRED: He said that his words were true.
+REF:  He said he meant his words.
+
+SRC: Omukago gwateekebwako omukono Pulezidenti Yoweri Museveni ne bakulembeze banne.
+PRED: The summit was held in conjunction with President Yoweri Museveni and other leaders.
+REF:  The treaty was signed by President Yoweri Museveni and his counterparts.
+
+SRC: Omukulembeze yalabudde abalabe b'e Rwanda munda n'ebweru.
+PRED: The leader visited the rebels in and out of Rwanda.
+REF:  The president warned Rwanda's enemies from within and without.
+
+SRC: Endagaano yassibwako emikono okusobola okuzzaawo omukago gwa East Afirika.
+PRED: The agreement was signed by the parties in order to establish the East African Community.
+REF:  The treaty was signed to re-establish the East African Community.
+
+SRC: Lagardere abanja ssente nnyingi okuliyiribwa okuva mu kakiiko akaddukanya omupiira gw'ebigere mu Afirika.
+PRED: Lagardere has contributed a lot of money from the Confederation of African Football.
+REF:  Lagardere demands a huge compensation from the Confederation of African football.
+
+SRC: Akakiiko akaddukanya omupiira gwa Afirika ogw'ebigere ogwa President Ahmad kaabuvuyo.
+PRED: The Confederation for African Football chaired by President Ahmadinejad is disappointed.
+REF:  The Confederation of African Football president Ahmad is controversial.
+
+SRC: Ekitongole kya World Health Organisation kyagala wabeerewo okwongeza ku kuteeka ensimbi mu kunoonyereza ku ndwadde mu mawanga.
+PRED: The World Health Organization wants to have more funds allocated for national disease surveillance.
+REF:  World health organization wants to progress in domestic investment for surveillance activities.
+
+SRC: Ekitongole kya World Health organisation kisuubira nti ekisuubizo ekisooka kijja kuwa abagabirizi b'obuyambi amaanyi eri omulamwa ogwo.
+PRED: The World Health Organization is expecting a big challenge ahead of the donor community.
+REF:  The World Health Organization hopes that the first pledge will encourage donors to the cause.
+
+SRC: Gavumenti empya yaleeta enteekateeka ez'okuzza ebyenfuna bya Sudan ku luguudo.
+PRED: The new government brought Sudanese financial institutions onto the roads.
+REF:  The new government brought forward the Sudanese economic revival plan.
+
+SRC: Abantu obukadde abiri bajja kutaasibwa endwadde.
+PRED: Twenty million people will be vaccinated against the disease.
+REF:  Twenty million people will be saved from illnesses.
+
+SRC: Poland yaweebwa okuwummuzibwamu mu mabanja.
+PRED: Poland was admitted to the European Union.
+REF:  Poland was granted deep relief on its debts.
+
+SRC: Ebitongole bibiri ebilondoola ebirala byatondebwa.
+PRED: Two other supervisory bodies were created.
+REF:  Two oversight bodies were created.
+
+SRC: Abasajja abaasooka baalonda mu nyingi nebafuna engombo y'eggwanga.
+PRED: The first men were elected into the army and received the national title.
+REF:  The Founding Fathers made "out of many ones" the national motto.
+
+SRC: Obubaka obutali butuufu era nga bwabulimba awo nebuyambibwako.
+PRED: Unclear information and when the bride is given a bribe.
+REF:  A world of misinformation, disinformation, and misinformation is thus aided.
+
+SRC: Okunoonyereza kwakolebwa mu Ghana, Kenya, Nigeria, South Afirika, Tanzania ne Uganda.
+PRED: Research was carried out in Ghana, Kenya, Nigeria, South Africa, Tanzania and Uganda.
+REF:  The survey was conducted in Ghana, Kenya, Nigeria, South Africa, Tanzania, and Uganda.
+
+SRC: Okuva edda okulanga ebyamaguzi kuwaniridde empapula z'amawulire.
+PRED: He has bought newspapers since the beginning of the trade.
+REF:  Since the time of the early advertising-supported newspapers.
+
+SRC: Ekigendererwa ky'okusoolooza kwali kutuukirira muwendo munene nga bwekisoboka.
+PRED: The goal of the exercise was to achieve a high standard of living.
+REF:  The revenue-maximizing goal was to reach the largest audience possible.
+
+SRC: Okutwaliza awamu ensaasaanya y'amagye mu Afirika yakka ebitundu munaana ku buli kikumi.
+PRED: The total military expenditure in Africa is only eighty percent.
+REF:  Generally, military expenditure in Africa fell by eight percent.
+
+SRC: Uganda yasaba okubeegattako mu bikwekweto nga abiri mu ttaano Ogwekkumi naye Beni n'agaana.
+PRED: Uganda requested to participate in the twenty-fifth triennial with Ben and his family.
+REF:  Uganda asked to join them in operations on the twenty-fifth of October but Beni declined.
+
+SRC: Aba Allied Democratic Forces baali baakulwanyisa gavumenti ya Kampala
+PRED: The Allied Democratic Forces were fighting against the government of Kampala.
+REF:  The Allied Democratic Forces were to fight the Kampala government.
+
+SRC: Abakulembeze ba National Resistance Movement mu Kampala baabadde baakwanja ensonga zaabwe.
+PRED: The National Resistance Movement leaders in Kampala had discussed their issues.
+REF:  National Resistance Movement leaders in Kampala were to air out their issues.
+
+SRC: Awasinga obukulu wali awakolerwa n'awafulumizibwa.
+PRED: Most of the important things are done and done.
+REF:  The impact is at their manufacturing and distribution points.
+
+SRC: Okwekalakaasa n'obwegugungo okuva ku ludda oluvuganya mu byobufuzi byeetaaga okukomezebwa mu Makerere.
+PRED: Violence and riots from opposition political parties need to be stopped in Makerere.
+REF:  strikes and accusations from the opposition being politicized need to stop in Makerere
+
+SRC: Embaga n'emikolo gy'okuziika gikozesebwa nga akatuuti k'okunoonyezaako obululu eri bannabyabufuzi abasinga.
+PRED: Elections and ceremonies were used as platforms for holding elections for most politicians.
+REF:  Weddings and funerals are used as campaign platforms by most politicians
+
+SRC: Eyo y'engeri yaakyo ennambulukufu gye kyeyolekamu.
+PRED: She did what she was told to do.
+REF:  That is only its overt manifestation.
+
+SRC: Omuzannyo gwawandiikibwako ku Besigye mu katabo ka Daniel Kalinaki.
+PRED: The game was written about Besigye in the book by Daniel Kalinaki.
+REF:  This drama is captured in Daniel Kalinaki's book on Besigye.
+
+SRC: Besigye yalumiriza National Resistance Movement okuba wansi wa nnakyemalira omu.
+PRED: Besigye accused the National Resistance Movement of being behind the author.
+REF:  Besigye accused the National Resistance Movement of being a one-man dictatorship.
+
+SRC: Okusalawo kwakolebwa mu Gwekkumi lukumi mu lwenda kinaana mu mwenda.
+PRED: The decision was made in November fifty-six thousand nineteen.
+REF:  The decision was made in October one thousand nine hundred eighty-nine.
+
+SRC: Singa tebakkiriza, abantu abalala abasendebwasendebwa bandisangiddwa.
+PRED: Unless they believe in it, other people who are affected by it will be punished.
+REF:  If they did not comply more pliant people would be found.
+
+SRC: Waliwo okubwatuka kw'amasasi okugenda mu maaso mu kibuga kya Democratic Republic of Congo eky'e Beni.
+PRED: There has been a landslide in the city of Beni, Democratic Republic of Congo.
+REF:  There is continued heavy gunfire in the Democratic Republic of Congo town of Beni.
+
+SRC: Kkamera  enkessi zaateekebwa mu Kampala n'ebitundu ebiriraanyeewo.
+PRED: Large cameras were installed in Kampala and surrounding areas.
+REF:  The closed-circuit television cameras were installed in Kampala Metropolitan Policing Area.
+
+SRC: We nnatuukira, embeera yali ya bunkenke.
+PRED: When I arrived, the situation was tense.
+REF:  The situation was very tense by the time I arrived.
+
+SRC: Byonna birabika byategekeddwa butegekebwa.
+PRED: All the plans have been implemented.
+REF:  It all seemed rehearsed.
+
+SRC: Abavuzi ba boodabooda tebagoberera mateeka ga ku nguudo.
+PRED: Motorcyclists do not follow the rules on the road.
+REF:  Boda Boda riders disregard traffic rules.
+
+SRC: Enkola eyo ekozesebwa nnyo ne mu mbeera endala.
+PRED: This system is also used in other situations.
+REF:  The pathway sits at the heart of several other biological processes.
+
+SRC: Aba LC n'abatuuze basaanidde okuwoma omutwe mu by'okwerinda.
+PRED: Local councilors and residents should take part in the security exercise.
+REF:  Local Councils and the communities must take the lead in policing.
+
+SRC: Yagamba nti eddagala ly'ebiti ebibiri ebisoose kwe kuvumirira.
+PRED: He said that the medicine for these two diseases is to heal.
+REF:  He said the solution to the first two categories is criticism.
+
+SRC: Yantikudde omugugu.
+PRED: He broke his shirt.
+REF:  He took a burden off my shoulders.
+
+SRC: Wayipa bwe zigenda zikaddiwa, zirekera awo okukola obulungi.
+PRED: When the tyres are put on, they stop working properly.
+REF:  As windshield wiper blades age, they lose much of their flexibility.
+
+SRC: Kiggya wa ssente okuddukanya emirimu gyakyo?
+PRED: What is the cost of running your business?
+REF:  Where does it get money to finance its programs?
+
+SRC: Ebibiina bingi tebirina ssente.
+PRED: Many parties do not have money.
+REF:  Many organizations don’t have money.
+
+SRC: Abeekenneenya eby'obufuzi beeraliikirivu olw'enjawukana eziri mu b'oludda oluvuganya gavumenti.
+PRED: Politicians are worried about the ongoing conflicts within the government.
+REF:  Political analysts are concerned with the opposition's separation.
+
+SRC: Olunaku kwe yalina okumalirako omulimu gwe lwamuyitako.
+PRED: He had to give up his job that day.
+REF:  He missed the deadline for his assignment.
+
+SRC: Bazadde be baali tebakimanyi nti takola bulungi ku ssomero.
+PRED: Her parents were not sure that she was doing well at school.
+REF:  His parents didn't know his academic performance was poor.
+
+SRC: Abantu abamu mu bugwanjuba bwa Uganda bawoomerwa nnyo obulo.
+PRED: Some people in northern Uganda are severely affected by the virus.
+REF:  Some people from Western Uganda like eating millet.
+
+SRC: Abantu mu nsi ezitali zimu mu Afirika balina ebika by'emmere bya njawulo bye basinga okuwoomerwa.
+PRED: People in different countries in Africa have different foodstuffs to choose from.
+REF:  Different African countries have their special dishes.
+
+SRC: Bwe yamala okuzaalibwa, bazadde be baamuggulirawo akawunta kwe bassa ssente ze ez'essomero.
+PRED: When she was born, her parents bought her a scholarship to raise her school money.
+REF:  Her parents created a college savings account after her birth.
+
+SRC: Yawulira eddoboozi ly'omuntu ayimbira wabweru w'oluggi.
+PRED: He heard a voice from someone standing outside the door.
+REF:  She had a voice singing outside the door.
+
+SRC: Alondeddwa okuba omukulembeze w'eggwanga.
+PRED: He has been appointed as the president of the country.
+REF:  He has been voted president of the country.
+
+SRC: Eby'okwerinda birungi mu kibuga.
+PRED: There is good security in the city.
+REF:  There is good security in the city.
+
+SRC: Mu kitundu kyaffe tetulina masomero bazadde gye basobola kusiibya baana bato nnyo na masomero ga nnasale.
+PRED: We do not have primary and secondary schools in our area.
+REF:  We do not have daycares and nursery schools in our area.
+
+SRC: Abajulizi abamu tebamanyi kuluka bulungi mboozi n'ekivaamu batabula buli omu.
+PRED: Some martyrs do not know how to live well and how to pray for everyone.
+REF:  Some witnesses do not narrate the incidents clearly and end up confusing everyone.
+
+SRC: Yasuubizza okunkubirako mu ssaawa emu.
+PRED: He promised to come back in one hour.
+REF:  She promised to give me a call in an hour.
+
+SRC: Alowooza nti okusunsula kuba kumala biseera.
+PRED: He thinks payment is a matter of time.
+REF:  He thinks the existence of combs is an inconvenience.
+
+SRC: Ogenda kumukuuma otya?
+PRED: How are you going to protect yourself?
+REF:  How are you going to protect her?
+
+SRC: Endabika ye ey'oku maaso eraga nti alina ebimweraliikiriza.
+PRED: His last letter states that he has false allegations.
+REF:  By the look on her face, she is stressed.
+
+SRC: Ekiraalo kikyafu, kirongoose.
+PRED: The village is clean, clean.
+REF:  The kraal is dirty, please clean it.
+
+SRC: Yali assa nnyo ng'alinnya olusozi.
+PRED: She was so angry when she saw him.
+REF:  He was panting as he climbed up the hill.
+
+SRC: Ejjinja lyamenyekamenyekamu obutundutundu obutono.
+PRED: The deer destroyed small areas of land.
+REF:  The stone broke into extra smaller pieces.
+
+SRC: Ttiimu yaabwe ey'essomero yawangudde empaka z'omuzannyo gwa hockey jjo olweggulo.
+PRED: Their school team won the hockey competition yesterday.
+REF:  Their school team won the hockey match last evening.
+
+SRC: Akabaga k'amazaalibwa ge tekaatambudde nga bwe yabadde ayagala.
+PRED: His funeral ceremony did not end when he wanted.
+REF:  His birthday party didn't go as he had planned.
+
+SRC: Yakuba omuntu amasasi olw'okutomera emmotoka ye.
+PRED: He punished the person for cutting off his car.
+REF:  He shot someone for knocking on his car.
+
+SRC: Emyaka bwe gizze giyitawo gavumenti ekoze enoongosereza mu ssemateeka.
+PRED: The government has made legal reforms in the years since its inception.
+REF:  The government has revised several parts of the constitution over the years.
+
+SRC: Yayiseemu okugenda mu mpaka z'omuzannyo gwa goofu ez'ensi yonna.
+PRED: He qualified for the international golf competitions.
+REF:  She qualified for the international golf competition.
+
+SRC: Ensi ezimu ziwa obukuumi kampuni za bannansi ne zitavuganyizibwa ezo eziva ebweru w'eggwanga.
+PRED: Some countries have owned and operated foreign companies.
+REF:  Some countries protect local companies from foreign competition.
+
+SRC: Ekitongole ky'ebigezo mu Uganda kiri wansi wa minisitule y'eby'enjigiriza n'emizannyo.
+PRED: The Uganda National Examinations Authority is under the Ministry of Education and Sports.
+REF:  The Uganda National Examinations Board is under the Ministry of Education and Sports.
+
+SRC: Ebbaluwa ye yagiddamu olunaku lwa jjo.
+PRED: His birthday was celebrated yesterday.
+REF:  She replied to his letter yesterday.
+
+SRC: Tayinza kukola mbaga nnene olw'ekirwadde kino ekiriwo.
+PRED: He is unable to attend a big party because of this outbreak.
+REF:  She cannot have a big wedding because of the pandemic.
+
+SRC: Otandika okulaba obubonero bw'ekirwadde kya covid-19 oluvannyuma lw'ennaku ssatu nga kikukute.
+PRED: The first sighting of covid-19 symptoms after three days has been postponed.
+REF:  You will start experiencing symptoms of coronavirus three days after infection.
+
+SRC: Ekirwadde kya korona kisaasaana mangu nnyo awali abantu abangi.
+PRED: The spread of coronavirus has affected the lives of many people.
+REF:  The coronavirus spreads easily among crowds.
+
+SRC: Jjukira okusala ku njala zo.
+PRED: It is early for you to leave your teeth.
+REF:  Remember to cut your nails short.
+
+SRC: Nsigazizza lwa nkya lwokka okuwaayo omulimu gwange.
+PRED: I promised to give up my job tomorrow.
+REF:  I have up to tomorrow to hand in the assignment.
+
+SRC: Omanyi ennamba z'onnyiga okusobola okuggulawo essimu eno?
+PRED: Do you know how to open this phone?
+REF:  Do you know the password to his phone?
+
+SRC: Ekitangaala eky'omu kisenge kyo kibadde ki?
+PRED: What was the size of your bedroom?
+REF:  What has happened to the light in your room?
+
+SRC: Awo w'awanika engoye ze.
+PRED: The owner of his clothes.
+REF:  That is where she hangs her dresses.
+
+SRC: Oyo muwala w'ani?
+PRED: Who is that girl?
+REF:  Whose daughter is that?
+
+SRC: Nkulinze ku mwaliriro ogw'okubiri.
+PRED: I headed for the second floor.
+REF:  I am waiting for you on the second floor.
+
+SRC: Nnamusanga ku ofiisi.
+PRED: I missed him at the office.
+REF:  I met him at the office.
+
+SRC: Buli minisita yasabibwa okuwa alipoota mu lukungaana.
+PRED: Every minister was requested to report to the meeting.
+REF:  Each minister was asked to deliver a report during the meeting.
+
+SRC: Bisoopu yalabula ekibiina ky'abakkiriza ku bikwata ku kubba mu mpaka.
+PRED: Bisoopu criticized the opposition party over the rigging in the race.
+REF:  The bishop cautioned the congregation against cheating in competitions.
+
+SRC: Abantu b'omu kitundu beemulugunya olw'okuba awasimba ebidduka ku ssemaduuka wafunda nnyo,
+PRED: The locals complained about the heavy rains on the road.
+REF:  The residents complained about the small parking yard at the supermarket.
+
+SRC: Ekirwadde kya korona kisse abantu bangi nnyo mu nsi.
+PRED: Coronavirus has killed many people in the world.
+REF:  Coronavirus has killed so many people in the world.
+
+SRC: Ttiimu ye yawangula liigi ya bannantammegwa omwaka oguwedde.
+PRED: His team won the Champions League last year.
+REF:  His team won the champions league last year.
+
+SRC: Ttiimu y'omupiira yafuba nnyo okuteeba goolo mu kitundu eky'okubiri.
+PRED: The football team scored a goal in the second half of the match.
+REF:  The football team struggled to score a goal in the second half.
+
+SRC: Abo abaawaayo okusaba kwabwe okw'omulimu kyali kibeetaagisa n'okubaako ebirala bye bawandiika ebiboogerako.
+PRED: Those who volunteered for the job were required to have other documents written for them.
+REF:  The job applicants were required to submit their resumes and cover letter during the application process.
+
+SRC: Yakwatibwa olw'okuteeberezebwa nti yamenya n'ayingira mu ofiisi ya kampuni.
+PRED: He was arrested for allegedly breaking into the company office.
+REF:  He was arrested on suspicion of breaking into the company office.
+
+SRC: Abazzi b'emisango abamu tebalina kisa n'akamu.
+PRED: Some criminals don't have sex with each other.
+REF:  Most criminals are very hurtless.
+
+SRC: Ettaka lya muwendo nnyo.
+PRED: His land is very valuable.
+REF:  The land is very valuable.
+
+SRC: Abaana abato baawuubira bazadde baabwe emikono bwe baali bagenda.
+PRED: The young children cheered their parents when they were leaving.
+REF:  The little children waved at their parents while leaving.
+
+SRC: Omuntu okubeera yekka kiyinza okumuviirako okwenyamira.
+PRED: One's uniqueness can lead to discomfort.
+REF:  Loneliness could lead to depression.
+
+SRC: Baakamala emyaka kkumi nga bafumbo.
+PRED: They were married for ten years.
+REF:  The couple has been married for ten years now.
+
+SRC: Ddagala ki ery'ekinnansi erisinga okukozesebwa mu Uganda?
+PRED: What medicines are most commonly used in Uganda?
+REF:  What are some of the commonly used herbs in Uganda?
+
+SRC: Ttiimu yaffe yafunye obubonero buna mu mupiira ogwazanyiddwa jjo.
+PRED: Our team scored four goals in the friendly match yesterday.
+REF:  Our team earned four points from yesterday's football match.
+
+SRC: Ab'omu maka gaffe tebaalina wa kulaga oluvannyuma lw'ennyumba yaffe okusanyizibwawo amataba.
+PRED: Our family did not have enough shelter after the floods in our house.
+REF:  Our family had nowhere to go after our house had been destroyed in the flood.
+
+SRC: Abasibe kkumi ku bo bakomezeddwawo mu ggwanga leero.
+PRED: Ten prisoners have been released from the country today.
+REF:  Ten of the prisoners were returned to the country today.
+
+SRC: Abeekalakaasi baalemerako nga bagamba nti owa poliisi yakuba omusajja amasasi olwa langi ye.
+PRED: The protesters went on to say that the police killed a man with his leg.
+REF:  The protesters insisted that the police officer shot that man dead because of his skin color.
+
+SRC: Abantu balina okwewa amabanga okwewala okusaasaana kw'ekirwadde kya corona.
+PRED: People should respect each other to prevent the spread of coronavirus.
+REF:  People should distance themselves from others to prevent the spread of coronavirus.
+
+SRC: Bannabyabufuzi balina okussa ekitiibwa mu ssemateeka.
+PRED: Politicians should respect the law.
+REF:  Politicians should respect the Constitution.
+
+SRC: Yazaalibwa muzibe.
+PRED: He was born a musician.
+REF:  She was born blind.
+
+SRC: Faamu eriko ente ez'ennyama n'amata.
+PRED: Farm produces honey and milk for cattle.
+REF:  The farm has cattle for both beef and dairy.
+
+SRC: Yayingira amagye nga wa myaka kkumi na mukaaga.
+PRED: He joined the army when he was eleven years old.
+REF:  He joined the army at sixteen years.
+
+SRC: Nnalabye omuntu gwe sitegeera ng'ayingira mu nnyumba.
+PRED: I saw his face when he entered the house.
+REF:  I saw a stranger entering that house.
+
+SRC: Mmaaya erina amagulu agasingayo obuwanvu.
+PRED: The mother has the longest white trousers.
+REF:  An ostrich has the longest legs.
+
+SRC: Abaana be nsomesa banyiizza.
+PRED: His children are tired of school.
+REF:  My students make me upset.
+
+SRC: Abawala abamu bafunye embuto mu kiseera ky'omuggalo.
+PRED: Some girls got pregnant during the lockdown.
+REF:  Some girls have become pregnant during the lockdown.
+
+SRC: Abazadde abamu bakisanze nga kizibu okufunira abaana baabwe eky'okulya.
+PRED: Some parents have been struggling to find food for their children.
+REF:  Some families are struggling to feed their children.
+
+SRC: Yagaana okwetaba mu mizannyo gy'ebitongole bya kampuni.
+PRED: He refused to participate in the company's sports activities.
+REF:  She refused to participate in the company's inter-departmental sports activities.
+
+SRC: Abantu bangi mu kitundu kino bajja kubuutikirwa ettaka singa tebakivaamu.
+PRED: Many people in this area will be affected by the landslides if they fail.
+REF:  Many people in this area will be buried by the landslide if they do not relocate.
+
+SRC: Twalina okukendeeza omuwendo gw'abantu ab'okuba ku mbaga yaffe okutuuka ku bantu abiri olw'ekirwadde.
+PRED: We should reduce the number of people attending our wedding to twenty due to the pandemic.
+REF:  We had to reduce our wedding guest list to twenty people because of the pandemic.
+
+SRC: Sigabanga ku musaayi.
+PRED: I don't know what you are talking about.
+REF:  I have never donated blood.
+
+SRC: Abamu ku mikwano gyange balowooza nti nnyazaala wange yeefuula annyamba asobole okuketta amaka gange.
+PRED: Some of my friends think that my grandmother is a good helper for my family.
+REF:  Some of my friends think that my mother-in-law is pretending to help me so that she can spy on my family.
+
+SRC: Waliwo apu y'oku ssimu ne ku kompyuta abantu gye basobola okukozesa okulagiriza emmere nga tekibeetaagisizza kugenda we bagitundira.
+PRED: There are mobile phones and computers that people can use to access food before it's too late.
+REF:  There is a mobile application to help people order for food without having to go to the restaurant.
+
+SRC: Abasiraamu tebalya mbizzi olw'okuba kitwalibwa ng'ekibi mu ddiini yaabwe.
+PRED: Muslims do not eat fish because it is considered a sin in their religion.
+REF:  Muslims do not eat pork because it is a sin in their religion.
+
+SRC: Yeesunze enkya okutandika okukola omulimu gwe yaakafuna.
+PRED: She took the day off to start her new job.
+REF:  She is very excited about starting her new job tomorrow.
+
+SRC: Ab'awaka bonna beewuunya muganda wange bwe yafuna olubuto ku myaka kkumi na mukaaga.
+PRED: The locals all wondered when my brother got pregnant at the age of sixteen.
+REF:  The whole family was shocked when my sister got pregnant at sixteen years.
+
+SRC: Ekisaawe kino kigyaamu abantu kakaaga bokka.
+PRED: This stadium has only six people.
+REF:  This stadium accommodates only six thousand people.
+
+SRC: Y'omu ku batendesi mu kampuni yaffe.
+PRED: He is one of the founders of our company.
+REF:  He is one of the trainees at our company.
+
+SRC: Alina abantu babiri abamuyambako mu saluuni ye.
+PRED: He has two assistants in his office.
+REF:  She runs her salon with two assistants.
+
+SRC: Maama wo yaguze ekiteeteeyi ekya kiragala mu dduuka lyange jjo.
+PRED: Your mother bought me a brand new dress at my shop yesterday.
+REF:  Your mother bought a green dress from my shop yesterday.
+
+SRC: Ebbeeyi y'ebintu etera okulinnya ng'emisolo girinnye.
+PRED: The price of things increases as the animals grow.
+REF:  The prices of products usually go high due to an increase in taxes.
+
+SRC: Baatadde omusolo omupya ku bbando za intaneeti.
+PRED: They introduced a new tax on internet transactions.
+REF:  A new tax was imposed on internet bundles.
+
+SRC: Emmere gye nnalagirizza baagireese mu budde.
+PRED: The food I ordered was ready for consumption.
+REF:  My food order was delivered on time.
+
+SRC: Yasiimibwa olw'okubeera omuminsani eyayigiriza abantu ebintu ebyabakwatako ennyo.
+PRED: He was praised for being the one who taught people the hard work.
+REF:  She was appreciated for her impactful missionary education service.
+
+SRC: Kati mu Uganda mulimu emikutu gy'amawulire mingi.
+PRED: There are many media stations in Uganda.
+REF:  There are more media houses in Uganda today.
+
+SRC: Mu mizannyo egisinga obungi, mu ttiimu mutera okubaamu omuzannyi atangira omulabe.
+PRED: In most sports, the team rarely has a player that stops the player.
+REF:  In most sports games, there is always a team member defending an opponent.
+
+SRC: Waliwo omulambo ogwasangiddwa mu nsiko.
+PRED: There is a dead body buried in the wild.
+REF:  There is a dead body that was found in the bush.
+
+SRC: Loogi zitera kuba za miwendo mitono bw'ogeraageranya ku wooteeri.
+PRED: Hotels are usually low-cost compared to hotels.
+REF:  Lodges are relatively cheaper than hotels.
+
+SRC: Nnanyumirwa nnyo okulaba firimu y'ebisolo.
+PRED: I was very pleased to see the crop yield.
+REF:  I enjoyed watching the animal documentary.
+
+SRC: Empologoma y'emu ku bisobolo ebisinga okuyigga binnabyo mu kibira.
+PRED: Anthropocene is one of the most common locusts in the forest.
+REF:  The lion is one of the major predators in the jungle.
+
+SRC: Abayigga mu kkuumiro ly'ebisolo abasinga obungi bakozesa ebintu gamba ng'emmundu.
+PRED: Most of the fishermen use their gear like guns.
+REF:  Most poachers used tools such as guns.
+
+SRC: Wali ogenzeeko mu nsi endala?
+PRED: Have you been to other countries?
+REF:  Have you ever traveled to any country before?
+
+SRC: Yayitibwa ku poliisi okuwa sitatimenti.
+PRED: He was arrested by the police for bribing.
+REF:  He was called to the police station to give a statement.
+
+SRC: Nnakozesa kompyuta ye okugenda ku email yange.
+PRED: I used his computer to access my email.
+REF:  I logged into my email address using his computer.
+
+SRC: Amakampuni gatadde ssente nnyingi nnyo mu tekinologiya.
+PRED: Companies have invested heavily in technology.
+REF:  Companies have heavily invested in technology.
+
+SRC: Mwagaliza kuwona mangu.
+PRED: I swear by you all.
+REF:  I wish she gets well soon.
+
+SRC: Okugema abantu okw'ekikungo kugenda mu maaso mu ggwanga.
+PRED: The campaign of vaccinating people is ongoing in the country.
+REF:  The mass vaccination against the coronavirus is ongoing in the country.
+
+SRC: Emmotoka yatomera omuvuzi wa pikipiki ku kkona ly'ekkubo.
+PRED: The car parked the motorcyclist at the corner of the road.
+REF:  The car knocked down a motorcyclist at the corner of the road.
+
+SRC: Abakazi batono nnyo abaagala omupiira gw'ebigere.
+PRED: Very few women love football.
+REF:  Very few women have an interest in football.
+
+SRC: Tanzania teyeetoolooddwa nsi ndala nga Uganda.
+PRED: Tanzania has not been visited by another country like Uganda.
+REF:  Tanzania is not a landlocked country like Uganda.
+
+SRC: Kino ekirwadde kya korona olumu kijja kubeera lufumo bufumo.
+PRED: This coronavirus disease will one day become a pandemic.
+REF:  This coronavirus disease will one day be history.
+
+SRC: Abakulembeze b'ekyalo bakola mulimu ki?
+PRED: What is the role played by the village leaders?
+REF:  What is the role played by local leaders in the community?
+
+SRC: Twasaawa omuddo ku luggya.
+PRED: We cut down the tree on the slope.
+REF:  We slashed the grass in the compound.
+
+SRC: Kojja wange yafa omwaka oguwedde.
+PRED: My uncle died last year.
+REF:  My uncle died last year.
+
+SRC: Obulwadde obwo tebuliiko ddalagala.
+PRED: There is no cure for that disease.
+REF:  There is no cure for that disease.
+
+SRC: Enjala yamuluma okutuusa lwe yafa kubanga tewaaliwo kya kulya.
+PRED: The frog collapsed when he died because there was no food to eat.
+REF:  She starved to death because nothing was there to eat.
+
+SRC: Oluvannyuma lw'okufa kwa kitaawe, ye yafuuka omutwe gw'amaka.
+PRED: After his father's death, he became a family member.
+REF:  After his father's death, he became the head of the family.
+
+SRC: Mu ssomero lyaffe akola nga minisita w'eby'okwesanyusaamu.
+PRED: She serves as our school's entertainment minister.
+REF:  He is our entertainment minister at school.
+
+SRC: Ekifo kino kinyogovu nnyo.
+PRED: This place is very dangerous.
+REF:  This place is too cold.
+
+SRC: Abavuzi ba pikipiki tebakkirizibwa kuyita ku lutindo olupya.
+PRED: Motorcyclists are not allowed to take part in the new tour.
+REF:  Motorcyclists are not allowed to use the new bridge.
+
+SRC: Mu kutaya Katonda amagezi mwe gatandikira.
+PRED: In preaching to God, he is admonished.
+REF:  The fear of God is the beginning of wisdom.
+
+SRC: Poliisi yamuta olw'okulemererwa okufuna obujulizi obumala obumulumika.
+PRED: The police arrested him for failing to obtain evidence of malpractice.
+REF:  The police set him free as they could not find enough evidence against him.
+
+SRC: Omukuumi waffe yeebaka emisana asobole okusigala ng'atunula ekiro.
+PRED: Our security guard gave us a handful of rice to keep from drying at night.
+REF:  Our gatekeeper sleeps during the day so that he can remain awake throughout the night.
+
+SRC: Abazadde baalanze nti muwala waabwe abuze.
+PRED: The parents found out that their daughter is pregnant.
+REF:  The parents announced that their daughter was missing.
+
+SRC: Ansekerera buli lwe nnanaagira.
+PRED: He always waits for me when I need him.
+REF:  She laughs at me whenever I stammer.
+
+SRC: Nzijukira bulungi ekkubo erigenda ewammwe.
+PRED: I look forward to the road ahead.
+REF:  I clearly remember the way to your home.
+
+SRC: Tajja kwetaba mu mpaka z'okudduka olw'okuba alina obuvune.
+PRED: He will not participate in the running competitions because of his injuries.
+REF:  She will not be part of the athletics competitions because she is injured.
+
+SRC: Yatusuubiza okutwongeza singa tumugulako omulundi omulala.
+PRED: He promised us to increase if we do not go for another term.
+REF:  He promised to give us a bonus if we bought from him the next time.
+
+SRC: Maama wange yangambye okugabana ne mikwano gyange keeki yange ey'amazaalibwa.
+PRED: My mother helped me share my birthday cake with my friends.
+REF:  My mother told me to share my birthday cake with my friends.
+
+SRC: Amafuta kye kintu eggwanga kye lisinga okutunda ebweru.
+PRED: Fuel is one of the major exports to the country.
+REF:  Oil is the country's largest export.
+
+SRC: Twabalaba nga bakungula kasooli.
+PRED: We looked at each other like maidens.
+REF:  We saw them harvesting maize.
+
+SRC: Ab'obuyinza banoonya abavubuka babiri ababba mu ssemaduuka.
+PRED: The authorities are looking for two youths who are stealing from the market.
+REF:  The authorities are looking for two young men who robbed a supermarket.
+
+SRC: Ow'enganda zange yalondebwa okuba dayirekita w'ekkolero.
+PRED: My brother was appointed as the director of the factory.
+REF:  My niece was appointed as a director of the firm.
+
+SRC: Atutte nte ku ttale.
+PRED: He has bought meat from the field.
+REF:  He has taken the cows for grazing.
+
+SRC: Oyagala kwogera ku ki?
+PRED: What do you want to say?
+REF:  What do you want to talk about?
+
+SRC: Abakungu ababiri abavuganya baayimiriza kampeyini zaabwe.
+PRED: The two opposition officials cancelled their campaigns.
+REF:  The two rival officials suspended their campaigns.
+
+SRC: Ttiimu yawangudde emipiira esatu mu liigi.
+PRED: The team won three games in the league.
+REF:  The team won three games in the league.
+
+SRC: Bwe twamanya nti omuwala tali bulungi, twamutwala mu ddwaliro.
+PRED: When we found out that the girl is not well, we took her to the hospital.
+REF:  When we realized that the girl was not well, we took her to the hospital.
+
+SRC: Abayizi abamu baagobebwa ku ssomero olw'okweyisa obubi.
+PRED: Some students were sent to school for poor performance.
+REF:  Some students were expelled from school because of being indiscipline.
+
+SRC: Yagulira maama we amajolobera aga feeza.
+PRED: She bought a dress for her mother.
+REF:  He bought for his mother a silver bracelet.
+
+SRC: Olugoye luweza mita emu obugazi.
+PRED: The dress is made of several colors.
+REF:  The cloth is one meter wide.
+
+SRC: Ayagala nnyo okulya omuceere n'ennyama.
+PRED: She is fond of eating meat and vegetables.
+REF:  She likes eating rice with chicken.
+
+SRC: Buli omu yali alowooza nti ekirowoozo kye kyandikoze naye si bwe kyali.
+PRED: Everyone thought that his thought was true but it wasn't true.
+REF:  Everyone thought that his idea would work but it did not.
+
+SRC: Yalinga mulenzi mugezi bwe yali ekyali mu pulayimale.
+PRED: He was a wise man when he was in the primary.
+REF:  He used to be a clever boy in his primary school.
+
+SRC: Wuuzi za ngeri ki abantunzi ze bakozesa?
+PRED: What are the habits that people use?
+REF:  What threads do tailors use?
+
+SRC: Yasima ekinnya ekiwanvu.
+PRED: She ate a hot cake.
+REF:  He dug a deep hole.
+
+SRC: New Zealand ewangudde ekikopo ky'ensi yonna eky'omuzannyo gwa ragibe emirundi ettaano egy'omuddiringaanwa.
+PRED: New Zealand has won the world cup of rugby five hundred thousand gold medalists.
+REF:  New Zealand has won the rugby world cup five times in a row.
+
+SRC: Uganda teyitangamu kuzannya ogw'akamalirizo mu kikopo ky'ensi yonna.
+PRED: Uganda did not qualify for the World Cup finals.
+REF:  Uganda has never qualified for the World Cup finals.
+
+SRC: Abantu abasinga obungi bawummulira ku myaka nkaaga mu ettaano.
+PRED: Most people retire at the age of sixty five years.
+REF:  Most people retire at the age of sixty five.
+
+SRC: Yeegatta ku kiraabu y'eby'obulamu omwaka guno.
+PRED: He joined the health club this year.
+REF:  He joined the health club this year.
+
+SRC: Agenze mu lukungaana mu Ethiopia.
+PRED: He attended the summit in Ethiopia.
+REF:  He has gone for a meeting in Ethiopia.
+
+SRC: Mukyala wo mugumu.
+PRED: She is a very tough woman.
+REF:  You have a strong woman.
+
+SRC: Mukyala we musawo.
+PRED: His wife is a nurse.
+REF:  Her wife is a nurse.
+
+SRC: Omusaala gwe teguweza bukadde kkumi obwa ssente za Uganda.
+PRED: His salary is less than ten million Ugandan shillings.
+REF:  He earns less than ten million Ugandan shillings.
+
+SRC: Taata wo mubuulire amazima.
+PRED: Your father preaches the truth.
+REF:  Tell your father the truth.
+
+SRC: Erinnya ly'omusomesa gw'oyagala okulaba y'ani?
+PRED: Who is the name of the teacher you want to see?
+REF:  What is the name of the teacher that you want to see?
+
+SRC: Kooti enkulu egobye omusango ogw'obutemu ogwampawaabirwa.
+PRED: The chief justice has pleaded guilty to the murder case.
+REF:  The High Court has dismissed the murder case against me.
+
+SRC: Buli kiro akuba mukazi we.
+PRED: He beats his wife every night.
+REF:  He beats his wife every night.
+
+SRC: Ekisaawe ky'emisono kitandise okusituka nate.
+PRED: The gymnasium has grown faster than ours.
+REF:  The fashion industry is starting to thrive again.
+
+SRC: Abakulembeze ababiri baafunye olukungaana okwogera ku nkulaakulana mu kitundu kyabwe.
+PRED: The two leaders had a meeting to discuss developments in their region.
+REF:  The two leaders held a meeting to discuss the development of their regions.
+
+SRC: Obulwaliro mu byalo butera okukebera abalwadde ebintu ebikyamu nga bagenze okubakebera.
+PRED: Hospitals in rural areas rarely test for certain diseases after testing.
+REF:  Misdiagnosis is common in health centers in rural areas.
+
+SRC: Mukwano gwa maama wange.
+PRED: My mother's friend.
+REF:  She is a friend to my mother.
+
+SRC: Oyo eyali yeesimbyewo yasazibwamu olw'okugulirira abalonzi.
+PRED: The candidate was criticized for bribing voters.
+REF:  That candidate was disqualified for bribing voters.
+
+SRC: Yakwata kya kusatu n'obululu asatu.
+PRED: He scored thirty-three points.
+REF:  He came in third place with thirty votes.
+
+SRC: Yabadde avuga ggaali nga nze bwe nziruka.
+PRED: She was wearing a white shirt when she arrived.
+REF:  She was riding the bicycle while I was running.
+
+SRC: Tulabye ebintu ebibi ennyo omwaka guno.
+PRED: We witnessed a lot of bad things this year.
+REF:  We have seen worse things this year.
+
+SRC: Kiki ky'oyogera ku nsonga y'ettaka eno?
+PRED: What do you say about this piece of land?
+REF:  What do you have to say about this land matter?
+
+SRC: Ng'oggyeko ekirwadde kya korona, mu kitundu mulimu n'enddwadde endala.
+PRED: Besides coronavirus, there are other diseases in the community.
+REF:  Besides coronavirus, there are other diseases in the community.
+
+SRC: Omuntu asobola okwekebera ekirwadde kya korona awaka?
+PRED: How can one test positive for coronavirus?
+REF:  Can one self-test for coronavirus from home?
+
+SRC: Mu mpaka za Olimpiki ezaakaggwa, Uganda yakwata kya kusatu mu Afirika.
+PRED: During the post-Olympic games, Uganda took third place in Africa.
+REF:  In the recently concluded Olympic games, Uganda was the third in Africa.
+
+SRC: Omu ku bannayuganda teyayitamu kuzannya gya Olimpiki kubanga obuzito bwe bwali wansi.
+PRED: One Ugandan did not participate in the Olympics because the violence was low.
+REF:  One of the Ugandans did not qualify for the Olympics because he was underweight.
+
+SRC: Abasomesa abasinga obungi aba pulayimale sibamativu n'omusaala gwaabwe.
+PRED: Most primary school teachers are not satisfied with their salaries.
+REF:  Most primary school teachers are not satisfied with their salaries.
+
+SRC: Wabaddewo okweyongerayongera mu bikolwa by'okukwata abakazi n'okukabasanyizibwa.
+PRED: There has been an increase in violence against women and sexual abuse.
+REF:  There has been an increase in the number of defilement and rape cases.
+
+SRC: Abantu abawerako baafiira mu kabenje k'eryato mu nkmi bbiri mu kkumi na munaana.
+PRED: Several people died in a car accident in two thousand eighteen.
+REF:  A number of people died on the boat cruise in two thousand eighteen.
+
+SRC: Kigambibwa nti baminisita abalonde tebaagala kubaawo mu ntuula za palamenti.
+PRED: It is said that elected ministers do not want to appear in parliamentary elections.
+REF:  It has been reported that appointed ministers do not want to attend parliament sittings.
+
+SRC: Abasawo abamu bakambwalira nnyo abalwadde baabwe.
+PRED: Some health workers are very patient with their patients.
+REF:  Some health workers are very rude to their patients.
+
+SRC: Ensi ezaakula edda zirina amalwaliro amalungi.
+PRED: The developed countries have good hospitals.
+REF:  Developed countries have good medical facilities.
+
+SRC: Emibiri gyaffe ye yeekaalu ya Katonda.
+PRED: Our body is God's law.
+REF:  Our bodies are the temple of God.
+
+SRC: Alina emikwano mingi nnyo emigagga.
+PRED: He has many rich friends.
+REF:  He has very many rich friends.
+
+SRC: Abantu abamu bwe bafa, ebintu byabwe birabirirwa ab'enganda zaabwe.
+PRED: When some people die, their property is taken care of by their relatives.
+REF:  When some people die, their property is presided over by their relatives.
+
+SRC: Okusalawo kw'omulamuzi tekwamusanyusa.
+PRED: The judge's ruling was unhappy.
+REF:  The judge's decision did not please him.
+
+SRC: Amasundiro g'amafuta mangi gagguddwawo ku makubo agatali gamu mu Uganda.
+PRED: Many oil wells have been constructed along some roads in Uganda.
+REF:  More petrol stations have been opened up on different roads in Uganda.
+
+SRC: Ensi endala ziwadde Uganda eddagala erikozesebwa mu kugema.
+PRED: Other countries have banned the use of vaccines in Uganda.
+REF:  Uganda has received vaccine donations from other countries.
+
+SRC: Bannabyabufuzi bameka abaalondebwa okuba ababaka ba palamenti omwaka guno?
+PRED: How many politicians were appointed as parliamentarians this year?
+REF:  How many politicians were voted as Members Of Parliament this year?
+
+SRC: Ezimu ku ndwadde ezikwata abantu n'ensolo ze ziruwa?
+PRED: What are some of the diseases that affect people and animals?
+REF:  What are some of the diseases that can affect both animals and human beings?
+
+SRC: Muganda wange yakubwa amasanyalaze.
+PRED: My brother was shot dead.
+REF:  My brother was shocked by the electricity.
+
+SRC: Kitange ye yali akulira ekitongole kya sayansi mu ssomero gye nnasomeranga.
+PRED: My father was a science officer in my school.
+REF:  My father was the head of the science department at my former school.
+
+SRC: Mutabani we ajja kugenda mu sekendule omwaka ogujja.
+PRED: Her son will attend the secondary school next year.
+REF:  Her son will be joining high school next year.
+
+SRC: Yayokya engoye zonna n'ebifaananyi bya bba omugenzi.
+PRED: He wore all his clothes and photographed his deceased.
+REF:  She burnt all the clothes and pictures of her late husband.
+
+SRC: Yeesala mu butanwa bwe yali awaata.
+PRED: She fell asleep when she was crying.
+REF:  She accidentally cut her finger while she was peeling.
+
+SRC: Amaze ennaku bbiri nga talya mmere.
+PRED: She has not eaten food for two days.
+REF:  He has not eaten food for two days now.
+
+SRC: Abaana abangi tebakuze na bakitaabwe.
+PRED: Many children have never seen their parents again.
+REF:  A number of children have grown up without fathers.
+
+SRC: Lwaki omukka gwa okisijeeni gwakozesebwa okujjanjaba abalwadde b'ekirwadde kya korona?
+PRED: Why was oxygen used to treat coronavirus patients?
+REF:  Why was oxygen used to treat coronavirus patients?
+
+SRC: Yagamba mukazi ebigambo ebibi.
+PRED: He told the woman bad words.
+REF:  He said ill words to his wife.
+
+SRC: Obubonero bw'omupiira gw'ensero bubalibwa butya?
+PRED: How are basketball performances measured?
+REF:  How are basketball points counted?
+
+SRC: Ddi liigi ya bannantammegwa eddako lw'enneebaawo?
+PRED: When will the next league be held?
+REF:  When is the next Champions League?
+
+SRC: Omuwendo gw'abasibe mu kkomera lino gweyongedde.
+PRED: The number of prisoners in this prison has increased.
+REF:  The number of prisoners in this prison has increased.
+
+SRC: Yaziba amaaso bwe yali akyali muwere.
+PRED: She put her hands on her face when she was in the dark.
+REF:  He lost his sight when he was still a baby.
+
